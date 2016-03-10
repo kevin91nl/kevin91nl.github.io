@@ -14,7 +14,7 @@ author :
   email : k.m.j.jacobs@student.ru.nl
   github : kevin91nl
 
-production_url : http://kevin91nl.github.io/
+production_url : https://rubigdata.github.io/test-blog-kevin91nl/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -47,7 +47,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://kevin91nl.github.io/
+  BASE_PATH : https://rubigdata.github.io/test-blog-kevin91nl/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
